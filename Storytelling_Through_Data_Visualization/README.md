@@ -8,5 +8,5 @@
 
 4. Conditional plots: [[github](https://github.com/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/04_Conditional_Plots/Conditional_Plots.ipynb)] [[nbviewer](https://nbviewer.jupyter.org/github/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/04_Conditional_Plots/Conditional_Plots.ipynb)]
 
-5. Visualizing geographic data: /[[github](https://github.com/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/05_Visualizing_Geographic_Data/Visualizing_Geographic_Data.ipynb)] /[[nbviewer](https://nbviewer.jupyter.org/github/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/05_Visualizing_Geographic_Data/Visualizing_Geographic_Data.ipynb)]
+5. Visualizing geographic data: [[github](https://github.com/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/05_Visualizing_Geographic_Data/Visualizing_Geographic_Data.ipynb)] [[nbviewer](https://nbviewer.jupyter.org/github/alvinctk/DataQuest/blob/master/Storytelling_Through_Data_Visualization/05_Visualizing_Geographic_Data/Visualizing_Geographic_Data.ipynb)]
 
